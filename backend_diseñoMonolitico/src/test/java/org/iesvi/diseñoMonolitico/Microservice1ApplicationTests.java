@@ -1,4 +1,4 @@
-package org.iesvi.microservice_1;
+package org.iesvi.diseñoMonolitico;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

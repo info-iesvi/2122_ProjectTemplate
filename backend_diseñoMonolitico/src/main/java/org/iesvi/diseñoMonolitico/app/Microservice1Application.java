@@ -1,4 +1,4 @@
-package org.iesvi.microservice_1.app;
+package org.iesvi.diseñoMonolitico.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
