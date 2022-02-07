@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ab1e741-f54c-45fa-a426-404dd048eb30" name="Changes" comment="Creación estructura microservicio">
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/app/Microservice1Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/gestionEntidad_1/application/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/gestionEntidad_1/domain/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/gestionEntidad_1/infra/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/shared/application/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/shared/domain/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvi/microservice_1/shared/infra/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvi/microservice_1/Microservice1ApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8ab1e741-f54c-45fa-a426-404dd048eb30" name="Changes" comment="Creación estructura microservicio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,21 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="backend_diseñoMonolitico" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="backend_diseñoMonolitico" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="TODO_SCOPE" value="All Places" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
